@@ -1,0 +1,44 @@
+{
+  "name": "karma-logcapture-reporter",
+  "version": "0.0.1",
+  "description": "A Karma plugin. Capture logs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drslump/karma-logcapture-reporter.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-reporter",
+    "log"
+  ],
+  "author": {
+    "name": "Iván -DrSlump- Montes",
+    "email": "drslump@pollinimini.net"
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "contributors": [
+  ],
+  "bugs": {
+    "url": "https://github.com/drslump/karma-logcapture-reporter/issues"
+  },
+  "homepage": "https://github.com/drslump/karma-logcapture-reporter",
+  "maintainers": [
+    {
+      "name": "drslump",
+      "email": "drslump@pollinimini.net"
+    }
+  ],
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
