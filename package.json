@@ -15,30 +15,20 @@
     "karma-reporter",
     "log"
   ],
-  "author": {
-    "name": "Iván -DrSlump- Montes",
-    "email": "drslump@pollinimini.net"
-  },
-  "dependencies": {
-  },
+  "author": "Iván -DrSlump- Montes <drslump@pollinimini.net>",
+  "dependencies": {},
   "peerDependencies": {
     "karma": ">=0.9"
   },
   "license": "MIT",
-  "devDependencies": {
-  },
-  "contributors": [
-  ],
+  "devDependencies": {},
+  "contributors": [],
   "bugs": {
     "url": "https://github.com/drslump/karma-logcapture-reporter/issues"
   },
   "homepage": "https://github.com/drslump/karma-logcapture-reporter",
   "maintainers": [
-    {
-      "name": "drslump",
-      "email": "drslump@pollinimini.net"
-    }
+    "drslump <drslump@pollinimini.net>"
   ],
-  "directories": {},
-  "readme": "ERROR: No README data found!"
+  "directories": {}
 }
